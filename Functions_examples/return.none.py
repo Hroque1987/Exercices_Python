@@ -1,5 +1,5 @@
 def func():
-    pass
+    pass # when pass is used nothing appens and python moves to the next line
 
 func()
 a=func()
